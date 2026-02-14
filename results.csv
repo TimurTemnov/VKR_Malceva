@@ -3,3 +3,5 @@ SGDClassifier,0.7016,0.5416,0.7617
 DcisionTreeClassifier,0.6481,0.5034,0.7082
 RandomForestClassifier,0.9171,0.5336,0.7524
 LightGBM,0.7645,0.5776,0.7733
+XGBoost,0.8653,0.6237,0.7726
+CatBoost,0.7171,0.5518,0.7714
